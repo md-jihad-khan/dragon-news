@@ -1,8 +1,11 @@
-# React + Vite
+# ByteBlaze
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Resources
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React Router Dom](https://reactrouter.com/web/guides/quick-start)
+- [Tailwindcss Buttons](https://tailwindcss.com/docs/buttons)
+- [Mamba UI - Components](https://mambaui.com/)
+- [React-Icons](https://react-icons.github.io/react-icons/)
+- [react-fast-marquee](https://www.react-fast-marquee.com/)
+- [Daisy UI](https://daisyui.com/)
+- [moment js](https://momentjs.com/)
