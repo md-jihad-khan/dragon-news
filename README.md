@@ -1,5 +1,3 @@
-# ByteBlaze
-
 ## Resources
 
 - [React Router Dom](https://reactrouter.com/web/guides/quick-start)
